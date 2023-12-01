@@ -1,0 +1,20 @@
+.header{
+
+background-color: rgb(38, 39, 37);
+border:  solid 2px ;
+align-items: center;
+color: aliceblue;
+
+}
+  .card-img-top {
+    width: 100%;
+    height: 400px;
+    object-fit: cover;
+}
+col-md-4{
+
+  background-color: antiquewhite;
+}
+body{
+  background-color: rgb(109, 143, 173);
+}
